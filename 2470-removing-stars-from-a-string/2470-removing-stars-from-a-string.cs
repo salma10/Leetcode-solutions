@@ -14,9 +14,10 @@ public class Solution {
 
         while(opStack.Count > 0)
         {
-            result.Insert(0, opStack.Pop());
+           // result.Insert(0, opStack.Pop());
+           result.Append(opStack.Pop());
         }
 
-        return result.ToString();
+        return new string(result.ToString().Reverse().ToArray());
     }
 }
