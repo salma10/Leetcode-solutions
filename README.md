@@ -25,6 +25,7 @@ Leetcode problem solutions
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/salma10/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/salma10/Leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0649-dota2-senate](https://github.com/salma10/Leetcode-solutions/tree/master/0649-dota2-senate) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/salma10/Leetcode-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2470-removing-stars-from-a-string](https://github.com/salma10/Leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
@@ -42,6 +43,7 @@ Leetcode problem solutions
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/salma10/Leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/salma10/Leetcode-solutions/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
@@ -82,4 +84,8 @@ Leetcode problem solutions
 | [0724-find-pivot-index](https://github.com/salma10/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/salma10/Leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/salma10/Leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/salma10/Leetcode-solutions/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
