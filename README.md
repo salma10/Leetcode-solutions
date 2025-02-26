@@ -6,6 +6,7 @@ Leetcode problem solutions
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/salma10/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/salma10/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/salma10/Leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0495-teemo-attacking](https://github.com/salma10/Leetcode-solutions/tree/master/0495-teemo-attacking) |
@@ -86,6 +87,7 @@ Leetcode problem solutions
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/salma10/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/salma10/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/salma10/Leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/salma10/Leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
