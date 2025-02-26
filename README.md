@@ -22,11 +22,13 @@ Leetcode problem solutions
 | [0151-reverse-words-in-a-string](https://github.com/salma10/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/salma10/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/salma10/Leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/salma10/Leetcode-solutions/tree/master/0443-string-compression) |
 ## String
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/salma10/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/salma10/Leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/salma10/Leetcode-solutions/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/salma10/Leetcode-solutions/tree/master/0649-dota2-senate) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/salma10/Leetcode-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2470-removing-stars-from-a-string](https://github.com/salma10/Leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
