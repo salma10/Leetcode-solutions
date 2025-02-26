@@ -7,6 +7,7 @@ Leetcode problem solutions
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/salma10/Leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/salma10/Leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0495-teemo-attacking](https://github.com/salma10/Leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0643-maximum-average-subarray-i](https://github.com/salma10/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/salma10/Leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -89,5 +90,6 @@ Leetcode problem solutions
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/salma10/Leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0649-dota2-senate](https://github.com/salma10/Leetcode-solutions/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
