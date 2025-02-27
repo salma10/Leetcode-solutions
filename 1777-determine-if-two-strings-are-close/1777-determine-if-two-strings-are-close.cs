@@ -1,40 +1,54 @@
 public class Solution {
     public bool CloseStrings(string word1, string word2) {
-        if (word1.Length != word2.Length) return false; 
         
-        var wordOneCharDict = new Dictionary<char, int>();
-        var WordTwoCharDict = new Dictionary<char, int>();
-        var wordOneFrequencyCount = new Dictionary<int, int>();
-        var wordTwoFrequencyCount = new Dictionary<int, int>();
-
-        foreach (var i in word1)
-        {
-            if (!wordOneCharDict.ContainsKey(i)) wordOneCharDict.Add(i, 0);
-            wordOneCharDict[i]++;
-        }
-        foreach (var i in word2)
-        {
-            if (!WordTwoCharDict.ContainsKey(i)) WordTwoCharDict.Add(i, 0);
-            WordTwoCharDict[i]++;
-        }
-        if (wordOneCharDict.Count != WordTwoCharDict.Count) return false;
+        if(word1.Length != word2.Length)
+            return false;
             
+        Dictionary<char, int> word1Count = new Dictionary<char, int>();
+        Dictionary<char, int> word2Count = new Dictionary<char, int>();
 
-        foreach (var i in wordOneCharDict)
+        foreach(char c in word1)
         {
-            if (!WordTwoCharDict.ContainsKey(i.Key))  return false; 
-            if (!wordOneFrequencyCount.ContainsKey(i.Value)) wordOneFrequencyCount.Add(i.Value, 0);
-			wordOneFrequencyCount[i.Value]++;
+            if(!word1Count.ContainsKey(c))
+                word1Count[c] = 0;
+            word1Count[c]++;
         }
-        foreach (var i in WordTwoCharDict)
+
+        foreach(char c in word2)
         {
-            if (!wordTwoFrequencyCount.ContainsKey(i.Value)) wordTwoFrequencyCount.Add(i.Value, 0);
-            wordTwoFrequencyCount[i.Value]++;
+            if(!word2Count.ContainsKey(c))
+                word2Count[c] = 0;
+            word2Count[c]++;
         }
-        foreach (var i in wordOneFrequencyCount)
+
+        if(word1Count.Count != word2Count.Count)
+            return false;
+        
+        Dictionary<int, int> word1Freq = new Dictionary<int, int>();
+        Dictionary<int, int> word2Freq = new Dictionary<int, int>();
+
+        foreach (KeyValuePair<char, int> i in word1Count)
         {
-            if (!wordTwoFrequencyCount.ContainsKey(i.Key) || wordTwoFrequencyCount.ContainsKey(i.Key) && wordTwoFrequencyCount[i.Key]!=i.Value)return false; 
+            if (!word2Count.ContainsKey(i.Key))  
+                return false; 
+            if (!word1Freq.ContainsKey(i.Value)) 
+                word1Freq[i.Value] = 0;
+			word1Freq[i.Value]++;
         }
+
+        foreach(int freq in word2Count.Values)
+        {
+            if(!word2Freq.ContainsKey(freq))
+                word2Freq[freq] = 0;
+            word2Freq[freq]++;              
+        }
+
+        foreach (KeyValuePair<int, int> i in word1Freq)
+        {
+            if (!word2Freq.ContainsKey(i.Key) || word2Freq.ContainsKey(i.Key) && word2Freq[i.Key] != i.Value)
+                return false; 
+        }
+
         return true;
     }
 }
