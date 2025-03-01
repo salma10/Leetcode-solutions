@@ -18,6 +18,7 @@ Leetcode problem solutions
 | [1392-find-the-difference-of-two-arrays](https://github.com/salma10/Leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/salma10/Leetcode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/salma10/Leetcode-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/salma10/Leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/salma10/Leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 ## Two Pointers
 |  |
@@ -26,6 +27,7 @@ Leetcode problem solutions
 | [0283-move-zeroes](https://github.com/salma10/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/salma10/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/salma10/Leetcode-solutions/tree/master/0443-string-compression) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/salma10/Leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## String
 |  |
 | ------- |
@@ -66,6 +68,7 @@ Leetcode problem solutions
 | [1319-unique-number-of-occurrences](https://github.com/salma10/Leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/salma10/Leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/salma10/Leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/salma10/Leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -107,6 +110,7 @@ Leetcode problem solutions
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/salma10/Leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/salma10/Leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Counting
 |  |
 | ------- |
