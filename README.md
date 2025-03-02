@@ -115,4 +115,12 @@ Leetcode problem solutions
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/salma10/Leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/salma10/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/salma10/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
