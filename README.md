@@ -46,6 +46,7 @@ Leetcode problem solutions
 | [0394-decode-string](https://github.com/salma10/Leetcode-solutions/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/salma10/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/salma10/Leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/salma10/Leetcode-solutions/tree/master/0937-online-stock-span) |
 | [2470-removing-stars-from-a-string](https://github.com/salma10/Leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -56,6 +57,7 @@ Leetcode problem solutions
 ## Design
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/salma10/Leetcode-solutions/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/salma10/Leetcode-solutions/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
@@ -65,6 +67,7 @@ Leetcode problem solutions
 ## Data Stream
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/salma10/Leetcode-solutions/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/salma10/Leetcode-solutions/tree/master/0969-number-of-recent-calls) |
 ## Hash Table
 |  |
@@ -132,4 +135,5 @@ Leetcode problem solutions
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/salma10/Leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/salma10/Leetcode-solutions/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
