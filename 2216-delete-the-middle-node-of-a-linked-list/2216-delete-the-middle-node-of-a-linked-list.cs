@@ -16,20 +16,16 @@ public class Solution {
         
         ListNode hare = head;
         ListNode tortoise = head;
-        
+        ListNode newMiddleNode = null;
+
         while(hare != null && hare.next != null)
         {
+            newMiddleNode = tortoise;
             tortoise = tortoise.next;
             hare = hare.next == null ? null : hare.next.next;
         }
   
-        hare = head;
-        
-        while(hare.next != tortoise)
-        {
-            hare = hare.next;
-        }
-        hare.next = hare.next.next;
+        newMiddleNode.next = tortoise.next;
         return head;
     }
 }
