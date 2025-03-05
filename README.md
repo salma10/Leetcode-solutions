@@ -22,6 +22,7 @@ Leetcode problem solutions
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/salma10/Leetcode-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/salma10/Leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/salma10/Leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
+| [2428-equal-row-and-column-pairs](https://github.com/salma10/Leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Leetcode problem solutions
 | ------- |
 | [0495-teemo-attacking](https://github.com/salma10/Leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0735-asteroid-collision](https://github.com/salma10/Leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [2428-equal-row-and-column-pairs](https://github.com/salma10/Leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/salma10/Leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Design
 |  |
@@ -81,6 +83,7 @@ Leetcode problem solutions
 | [1392-find-the-difference-of-two-arrays](https://github.com/salma10/Leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/salma10/Leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/salma10/Leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2428-equal-row-and-column-pairs](https://github.com/salma10/Leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -144,4 +147,8 @@ Leetcode problem solutions
 | ------- |
 | [0739-daily-temperatures](https://github.com/salma10/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/salma10/Leetcode-solutions/tree/master/0937-online-stock-span) |
+## Matrix
+|  |
+| ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/salma10/Leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
