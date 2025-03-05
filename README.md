@@ -6,6 +6,7 @@ Leetcode problem solutions
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/salma10/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0238-product-of-array-except-self](https://github.com/salma10/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/salma10/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/salma10/Leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
@@ -24,6 +25,7 @@ Leetcode problem solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/salma10/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/salma10/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/salma10/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/salma10/Leetcode-solutions/tree/master/0392-is-subsequence) |
@@ -112,6 +114,7 @@ Leetcode problem solutions
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/salma10/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/salma10/Leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0649-dota2-senate](https://github.com/salma10/Leetcode-solutions/tree/master/0649-dota2-senate) |
 ## Sorting
