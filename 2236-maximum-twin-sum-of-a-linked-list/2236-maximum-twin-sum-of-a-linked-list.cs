@@ -11,50 +11,28 @@
  */
 public class Solution {
     public int PairSum(ListNode head) {
-        int totalNodes = 0;
         int maxSum = 0;
 
+        ListNode reversedList = null;
         ListNode current = head;
+        ListNode hare = head;
 
-        while(current != null)
+        while(hare != null)
         {
-            totalNodes++;
-            current = current.next;
-        }
-
-        int noOfNodesToReverse = totalNodes / 2;
-        current = head;
-
-        while(noOfNodesToReverse > 0)
-        {
-            noOfNodesToReverse--;
-            current = current.next;
-        }
-        current = ReverseList(current);
-        
-        while(current != null)
-        {
-            maxSum = Math.Max(maxSum, current.val + head.val);
-            current = current.next;
-            head = head.next;
-        }
-
-        return maxSum;
-    }
-    public ListNode ReverseList(ListNode head)
-    {
-        ListNode prev = null;
-        ListNode current = head;
-        ListNode next = null;
-
-        while (current != null)
-        {
-            next = current.next; 
-            current.next = prev;  
-            prev = current; 
+            hare = hare.next.next;
+            ListNode next = current.next; 
+            current.next = reversedList;  
+            reversedList = current; 
             current = next;
         }
 
-        return prev;
+        while(current != null)
+        {
+            maxSum = Math.Max(maxSum, current.val + reversedList.val);
+            current = current.next;
+            reversedList = reversedList.next;
+        }
+
+        return maxSum;
     }
 }
