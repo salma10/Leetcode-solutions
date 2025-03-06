@@ -1,17 +1,23 @@
 public class SmallestInfiniteSet {
-    SortedSet<int> queue;
+    int[] queue;
+    int index;
+
     public SmallestInfiniteSet() {
-        queue = new SortedSet<int>(Enumerable.Range(1, 1000));
+        queue = new int[1001];
+        index = 1;
     }
     
     public int PopSmallest() {
-        int minElement = queue.Min();
-        queue.Remove(minElement);
-        return minElement;
+        while(queue[index] == 1)
+            index++;
+        queue[index] = 1;
+        return index;
     }
     
     public void AddBack(int num) {       
-        queue.Add(num);
+        if(num < index)
+            index = num;
+        queue[num] = 0;
     }
 }
 
