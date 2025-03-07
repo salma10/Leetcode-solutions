@@ -95,6 +95,7 @@ Leetcode problem solutions
 ## Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/salma10/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0783-search-in-a-binary-search-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -104,6 +105,7 @@ Leetcode problem solutions
 ## Binary Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/salma10/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0783-search-in-a-binary-search-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 ## Sliding Window
 |  |
@@ -172,4 +174,12 @@ Leetcode problem solutions
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/salma10/Leetcode-solutions/tree/master/2413-smallest-number-in-infinite-set) |
+## Depth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/salma10/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/salma10/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
