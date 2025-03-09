@@ -95,6 +95,7 @@ Leetcode problem solutions
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/salma10/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0783-search-in-a-binary-search-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/salma10/Leetcode-solutions/tree/master/0904-leaf-similar-trees) |
@@ -108,6 +109,7 @@ Leetcode problem solutions
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/salma10/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0783-search-in-a-binary-search-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/salma10/Leetcode-solutions/tree/master/0904-leaf-similar-trees) |
@@ -182,12 +184,14 @@ Leetcode problem solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/salma10/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0904-leaf-similar-trees](https://github.com/salma10/Leetcode-solutions/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/salma10/Leetcode-solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/salma10/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/salma10/Leetcode-solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Interactive
