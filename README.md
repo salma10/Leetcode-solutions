@@ -7,6 +7,7 @@ Leetcode problem solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/salma10/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0162-find-peak-element](https://github.com/salma10/Leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/salma10/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/salma10/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/salma10/Leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -105,6 +106,7 @@ Leetcode problem solutions
 ## Binary Search Tree
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/salma10/Leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/salma10/Leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0783-search-in-a-binary-search-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [1046-max-consecutive-ones-iii](https://github.com/salma10/Leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
