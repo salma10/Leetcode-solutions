@@ -43,6 +43,7 @@ Leetcode problem solutions
 | [0394-decode-string](https://github.com/salma10/Leetcode-solutions/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/salma10/Leetcode-solutions/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/salma10/Leetcode-solutions/tree/master/0649-dota2-senate) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/salma10/Leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/salma10/Leetcode-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/salma10/Leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2470-removing-stars-from-a-string](https://github.com/salma10/Leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
@@ -198,4 +199,8 @@ Leetcode problem solutions
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/salma10/Leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Math
+|  |
+| ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/salma10/Leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
