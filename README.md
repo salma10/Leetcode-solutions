@@ -26,6 +26,7 @@ Leetcode problem solutions
 | [1833-find-the-highest-altitude](https://github.com/salma10/Leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/salma10/Leetcode-solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/salma10/Leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/salma10/Leetcode-solutions/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +39,7 @@ Leetcode problem solutions
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/salma10/Leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/salma10/Leetcode-solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/salma10/Leetcode-solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/salma10/Leetcode-solutions/tree/master/2553-total-cost-to-hire-k-workers) |
 ## String
 |  |
 | ------- |
@@ -66,6 +68,7 @@ Leetcode problem solutions
 | [0735-asteroid-collision](https://github.com/salma10/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/salma10/Leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/salma10/Leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/salma10/Leetcode-solutions/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Design
 |  |
 | ------- |
@@ -184,6 +187,7 @@ Leetcode problem solutions
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/salma10/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [2413-smallest-number-in-infinite-set](https://github.com/salma10/Leetcode-solutions/tree/master/2413-smallest-number-in-infinite-set) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/salma10/Leetcode-solutions/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Quickselect
 |  |
 | ------- |
