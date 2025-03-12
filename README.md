@@ -7,6 +7,7 @@ Leetcode problem solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/salma10/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0136-single-number](https://github.com/salma10/Leetcode-solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/salma10/Leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/salma10/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/salma10/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -220,4 +221,8 @@ Leetcode problem solutions
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/salma10/Leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/salma10/Leetcode-solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
