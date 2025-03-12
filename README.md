@@ -98,6 +98,7 @@ Leetcode problem solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/salma10/Leetcode-solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/salma10/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/salma10/Leetcode-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Tree
@@ -225,4 +226,5 @@ Leetcode problem solutions
 |  |
 | ------- |
 | [0136-single-number](https://github.com/salma10/Leetcode-solutions/tree/master/0136-single-number) |
+| [0338-counting-bits](https://github.com/salma10/Leetcode-solutions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
