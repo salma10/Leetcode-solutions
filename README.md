@@ -100,6 +100,7 @@ Leetcode problem solutions
 | ------- |
 | [0338-counting-bits](https://github.com/salma10/Leetcode-solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/salma10/Leetcode-solutions/tree/master/0392-is-subsequence) |
+| [1236-n-th-tribonacci-number](https://github.com/salma10/Leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/salma10/Leetcode-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Tree
 |  |
@@ -225,9 +226,14 @@ Leetcode problem solutions
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/salma10/Leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1236-n-th-tribonacci-number](https://github.com/salma10/Leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/salma10/Leetcode-solutions/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/salma10/Leetcode-solutions/tree/master/0338-counting-bits) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/salma10/Leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
