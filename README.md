@@ -14,6 +14,7 @@ Leetcode problem solutions
 | [0238-product-of-array-except-self](https://github.com/salma10/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/salma10/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/salma10/Leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/salma10/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0495-teemo-attacking](https://github.com/salma10/Leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0643-maximum-average-subarray-i](https://github.com/salma10/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/salma10/Leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -104,6 +105,7 @@ Leetcode problem solutions
 | [0198-house-robber](https://github.com/salma10/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/salma10/Leetcode-solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/salma10/Leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/salma10/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0747-min-cost-climbing-stairs](https://github.com/salma10/Leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/salma10/Leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/salma10/Leetcode-solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -162,12 +164,14 @@ Leetcode problem solutions
 | ------- |
 | [0011-container-with-most-water](https://github.com/salma10/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/salma10/Leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/salma10/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0649-dota2-senate](https://github.com/salma10/Leetcode-solutions/tree/master/0649-dota2-senate) |
 | [2636-maximum-subsequence-score](https://github.com/salma10/Leetcode-solutions/tree/master/2636-maximum-subsequence-score) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/salma10/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/salma10/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [1777-determine-if-two-strings-are-close](https://github.com/salma10/Leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/salma10/Leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/salma10/Leetcode-solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
