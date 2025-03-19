@@ -50,6 +50,7 @@ Leetcode problem solutions
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/salma10/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0392-is-subsequence](https://github.com/salma10/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/salma10/Leetcode-solutions/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/salma10/Leetcode-solutions/tree/master/0443-string-compression) |
@@ -78,6 +79,7 @@ Leetcode problem solutions
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0937-online-stock-span](https://github.com/salma10/Leetcode-solutions/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/salma10/Leetcode-solutions/tree/master/0969-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/salma10/Leetcode-solutions/tree/master/2413-smallest-number-in-infinite-set) |
@@ -94,6 +96,7 @@ Leetcode problem solutions
 ## Hash Table
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [1319-unique-number-of-occurrences](https://github.com/salma10/Leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/salma10/Leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/salma10/Leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
@@ -265,4 +268,8 @@ Leetcode problem solutions
 |  |
 | ------- |
 | [0871-keys-and-rooms](https://github.com/salma10/Leetcode-solutions/tree/master/0871-keys-and-rooms) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
