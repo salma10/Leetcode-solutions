@@ -5,7 +5,7 @@ public class Solution {
         Queue<int[]> queue = new Queue<int[]>();
         queue.Enqueue(entrance);
         int[,] dir = new int[,]{{-1,0}, {1,0}, {0,-1}, {0,1}};
-        maze[entrance[0]][entrance[1]] = '*';
+        maze[entrance[0]][entrance[1]] = '+';
 
         while(queue.Count > 0)
         {
@@ -24,7 +24,7 @@ public class Solution {
                         if(newRow == m - 1 || newRow == 0 || newCol == n - 1 || newCol == 0)
                             return steps;
                         queue.Enqueue(new int[]{newRow, newCol});
-                        maze[newRow][newCol] = '*';
+                        maze[newRow][newCol] = '+';
                     }
                 }
             }
