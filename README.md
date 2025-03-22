@@ -242,6 +242,7 @@ Leetcode problem solutions
 | [0199-binary-tree-right-side-view](https://github.com/salma10/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/salma10/Leetcode-solutions/tree/master/0437-path-sum-iii) |
+| [0547-number-of-provinces](https://github.com/salma10/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/salma10/Leetcode-solutions/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/salma10/Leetcode-solutions/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/salma10/Leetcode-solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -252,6 +253,7 @@ Leetcode problem solutions
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/salma10/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/salma10/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/salma10/Leetcode-solutions/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/salma10/Leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/salma10/Leetcode-solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -278,10 +280,15 @@ Leetcode problem solutions
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/salma10/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/salma10/Leetcode-solutions/tree/master/0871-keys-and-rooms) |
 ## Trie
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [1397-search-suggestions-system](https://github.com/salma10/Leetcode-solutions/tree/master/1397-search-suggestions-system) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/salma10/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
