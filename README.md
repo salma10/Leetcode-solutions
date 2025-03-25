@@ -280,6 +280,7 @@ Leetcode problem solutions
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/salma10/Leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/salma10/Leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
+| [1585-the-kth-factor-of-n](https://github.com/salma10/Leetcode-solutions/tree/master/1585-the-kth-factor-of-n) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -310,4 +311,8 @@ Leetcode problem solutions
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/salma10/Leetcode-solutions/tree/master/0399-evaluate-division) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/salma10/Leetcode-solutions/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
