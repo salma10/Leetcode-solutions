@@ -1,17 +1,19 @@
 public class Solution {
     public int PartitionString(string s) {
-        HashSet<char> uniqueChar = new HashSet<char>();
-        int noOfPartitions = 0;
+        int bits = 0;
+        int noOfPartitions = 1;
 
         for(int i = 0; i < s.Length; i++)
         {
-            if(uniqueChar.Contains(s[i]))
+            int bit = 1 << (s[i] - 'a');
+            if((bits & bit) == 0)
+                bits |= bit;
+            else
             {
-                uniqueChar.Clear();
-                noOfPartitions++;
-            }
-            uniqueChar.Add(s[i]);
+               bits = bit; 
+               noOfPartitions++;
+            }           
         }
-        return noOfPartitions + 1;
+        return noOfPartitions;
     }
 }
