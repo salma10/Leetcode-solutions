@@ -7,7 +7,7 @@ public class Solution {
         {
             if(uniqueChar.Contains(s[i]))
             {
-                uniqueChar = new HashSet<char>();
+                uniqueChar.Clear();
                 noOfPartitions++;
             }
             uniqueChar.Add(s[i]);
