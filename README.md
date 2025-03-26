@@ -25,6 +25,7 @@ Leetcode problem solutions
 | [0739-daily-temperatures](https://github.com/salma10/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/salma10/Leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1036-rotting-oranges](https://github.com/salma10/Leetcode-solutions/tree/master/1036-rotting-oranges) |
+| [1039-find-the-town-judge](https://github.com/salma10/Leetcode-solutions/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/salma10/Leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/salma10/Leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/salma10/Leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -105,6 +106,7 @@ Leetcode problem solutions
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [1039-find-the-town-judge](https://github.com/salma10/Leetcode-solutions/tree/master/1039-find-the-town-judge) |
 | [1319-unique-number-of-occurrences](https://github.com/salma10/Leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/salma10/Leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/salma10/Leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
@@ -296,6 +298,7 @@ Leetcode problem solutions
 | [0399-evaluate-division](https://github.com/salma10/Leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/salma10/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/salma10/Leetcode-solutions/tree/master/0871-keys-and-rooms) |
+| [1039-find-the-town-judge](https://github.com/salma10/Leetcode-solutions/tree/master/1039-find-the-town-judge) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/salma10/Leetcode-solutions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Trie
 |  |
