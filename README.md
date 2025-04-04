@@ -18,6 +18,7 @@ Leetcode problem solutions
 | [0435-non-overlapping-intervals](https://github.com/salma10/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/salma10/Leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0495-teemo-attacking](https://github.com/salma10/Leetcode-solutions/tree/master/0495-teemo-attacking) |
+| [0542-01-matrix](https://github.com/salma10/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/salma10/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/salma10/Leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/salma10/Leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -121,6 +122,7 @@ Leetcode problem solutions
 | [0338-counting-bits](https://github.com/salma10/Leetcode-solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/salma10/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/salma10/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/salma10/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/salma10/Leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/salma10/Leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/salma10/Leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
@@ -223,6 +225,7 @@ Leetcode problem solutions
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/salma10/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/salma10/Leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/salma10/Leetcode-solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/salma10/Leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
@@ -270,6 +273,7 @@ Leetcode problem solutions
 | [0199-binary-tree-right-side-view](https://github.com/salma10/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/salma10/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/salma10/Leetcode-solutions/tree/master/0399-evaluate-division) |
+| [0542-01-matrix](https://github.com/salma10/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/salma10/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/salma10/Leetcode-solutions/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/salma10/Leetcode-solutions/tree/master/1036-rotting-oranges) |
