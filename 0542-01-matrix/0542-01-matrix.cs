@@ -3,21 +3,17 @@ public class Solution {
         
         int len = mat.Length;
         int col = mat[0].Length;
-        int[][] result = new int[len][];
         Queue<int[]> ZeroPos = new Queue<int[]>();
-        
-        for(int i = 0; i < len; i++)
-            result[i] = Enumerable.Repeat(Int32.MaxValue, mat[0].Length).ToArray();
+        int max = col * len;
         
         for(int i = 0; i < len; i++)
         {
             for(int j = 0; j < col; j++)
             {
                 if(mat[i][j] == 0)
-                {
                    ZeroPos.Enqueue(new int[] {i, j}); 
-                   result[i][j] = 0;
-                }
+                else
+                    mat[i][j] = max;
             }
         }
         
@@ -29,13 +25,13 @@ public class Solution {
             int[] cur = ZeroPos.Dequeue();
             for (int k = 0; k < 4; k++)
             {
-                if (cur[0] + dRow[k] > -1 && cur[0] + dRow[k] < result.Length && cur[1] + dCol[k] > -1 && cur[1] + dCol[k] < result[0].Length && result[cur[0] + dRow[k]][cur[1] + dCol[k]] > result[cur[0]][cur[1]] + 1)
+                if (cur[0] + dRow[k] > -1 && cur[0] + dRow[k] < mat.Length && cur[1] + dCol[k] > -1 && cur[1] + dCol[k] < mat[0].Length && mat[cur[0] + dRow[k]][cur[1] + dCol[k]] > mat[cur[0]][cur[1]] + 1)
                 {
-                    result[cur[0] + dRow[k]][cur[1] + dCol[k]] = result[cur[0]][cur[1]] + 1;
+                    mat[cur[0] + dRow[k]][cur[1] + dCol[k]] = mat[cur[0]][cur[1]] + 1;
                     ZeroPos.Enqueue(new int[] { cur[0] + dRow[k], cur[1] + dCol[k] });
                 }
             }
         }
-        return result;
+        return mat;
     }
 }
