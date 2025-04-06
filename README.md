@@ -10,6 +10,7 @@ Leetcode problem solutions
 | [0136-single-number](https://github.com/salma10/Leetcode-solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/salma10/Leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/salma10/Leetcode-solutions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/salma10/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/salma10/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/salma10/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/salma10/Leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -225,6 +226,7 @@ Leetcode problem solutions
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/salma10/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/salma10/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/salma10/Leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/salma10/Leetcode-solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -254,6 +256,7 @@ Leetcode problem solutions
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/salma10/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/salma10/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/salma10/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0399-evaluate-division](https://github.com/salma10/Leetcode-solutions/tree/master/0399-evaluate-division) |
@@ -272,6 +275,7 @@ Leetcode problem solutions
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/salma10/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/salma10/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/salma10/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/salma10/Leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0542-01-matrix](https://github.com/salma10/Leetcode-solutions/tree/master/0542-01-matrix) |
@@ -321,6 +325,7 @@ Leetcode problem solutions
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/salma10/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/salma10/Leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/salma10/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 ## Shortest Path
