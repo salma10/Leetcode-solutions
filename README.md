@@ -21,6 +21,7 @@ Leetcode problem solutions
 | [0495-teemo-attacking](https://github.com/salma10/Leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0542-01-matrix](https://github.com/salma10/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/salma10/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/salma10/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/salma10/Leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/salma10/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/salma10/Leetcode-solutions/tree/master/0735-asteroid-collision) |
@@ -228,6 +229,7 @@ Leetcode problem solutions
 | ------- |
 | [0200-number-of-islands](https://github.com/salma10/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/salma10/Leetcode-solutions/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/salma10/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/salma10/Leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/salma10/Leetcode-solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/salma10/Leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
@@ -262,6 +264,7 @@ Leetcode problem solutions
 | [0399-evaluate-division](https://github.com/salma10/Leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/salma10/Leetcode-solutions/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/salma10/Leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/salma10/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0813-all-paths-from-source-to-target](https://github.com/salma10/Leetcode-solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/salma10/Leetcode-solutions/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/salma10/Leetcode-solutions/tree/master/0904-leaf-similar-trees) |
@@ -280,6 +283,7 @@ Leetcode problem solutions
 | [0399-evaluate-division](https://github.com/salma10/Leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0542-01-matrix](https://github.com/salma10/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/salma10/Leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/salma10/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0813-all-paths-from-source-to-target](https://github.com/salma10/Leetcode-solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/salma10/Leetcode-solutions/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/salma10/Leetcode-solutions/tree/master/1036-rotting-oranges) |
@@ -328,6 +332,7 @@ Leetcode problem solutions
 | [0200-number-of-islands](https://github.com/salma10/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/salma10/Leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/salma10/Leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/salma10/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 ## Shortest Path
 |  |
 | ------- |
