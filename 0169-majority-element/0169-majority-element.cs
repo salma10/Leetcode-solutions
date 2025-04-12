@@ -11,12 +11,6 @@ public class Solution {
             if(numsCount[nums[i]] > majorityNumber)
                 return nums[i];
         }
-
-        foreach(KeyValuePair<int, int> item in numsCount)
-        {
-            if(item.Value > majorityNumber)
-                return item.Key;
-        }
         return -1;
     }
 }
