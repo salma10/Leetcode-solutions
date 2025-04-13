@@ -66,6 +66,7 @@ Leetcode problem solutions
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/salma10/Leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/salma10/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/salma10/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0392-is-subsequence](https://github.com/salma10/Leetcode-solutions/tree/master/0392-is-subsequence) |
@@ -117,6 +118,7 @@ Leetcode problem solutions
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/salma10/Leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/salma10/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/salma10/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [1039-find-the-town-judge](https://github.com/salma10/Leetcode-solutions/tree/master/1039-find-the-town-judge) |
@@ -313,6 +315,7 @@ Leetcode problem solutions
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/salma10/Leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/salma10/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/salma10/Leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/salma10/Leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1585-the-kth-factor-of-n](https://github.com/salma10/Leetcode-solutions/tree/master/1585-the-kth-factor-of-n) |
