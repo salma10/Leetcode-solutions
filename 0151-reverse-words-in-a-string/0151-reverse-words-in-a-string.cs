@@ -1,36 +1,40 @@
 public class Solution {
     public string ReverseWords(string s) {
-        string[] splittedString = s.Split(" ");
         StringBuilder result = new StringBuilder();
-        int startPos = 0;
-        int endPos = splittedString.Length - 1;
+        StringBuilder currentWord = new StringBuilder();
 
-        for(int i = 0; i < splittedString.Length; i++)
+        for(int i = s.Length - 1; i >= 0; i--)
         {
-            if(string.IsNullOrEmpty(splittedString[i]))
-                startPos++;
-            else
-                break;
-        }
-
-        for(int i = splittedString.Length - 1; i >= 0; i--)
-        {
-            if(string.IsNullOrEmpty(splittedString[i]))
-                endPos--;
-            else
-                break;
-        }
-
-        for(int i = endPos; i >= startPos; i--)
-        {
-            if(!string.IsNullOrEmpty(splittedString[i]))
+            if(s[i] == ' ')
             {
-                result.Append(splittedString[i]);
-                if(i != startPos)
+                if(currentWord.Length > 0)
+                {
+                    currentWord = Reverse(currentWord);
+                    result.Append(currentWord.ToString());
                     result.Append(" ");
+                    currentWord.Clear();
+                }
             }
+            else
+               currentWord.Append(s[i].ToString());
+        }
+        if(currentWord.Length > 0)
+        {
+            currentWord = Reverse(currentWord);
+            result.Append(currentWord.ToString());
+            currentWord.Clear();
         }
              
-        return result.ToString();
+        return result.ToString().Trim();
+    }
+    private StringBuilder Reverse(StringBuilder currentWord)
+    {
+        for (int k = 0, j = currentWord.Length - 1; k < j; k++, j--)
+        {
+            char temp = currentWord[k];
+            currentWord[k] = currentWord[j];
+            currentWord[j] = temp;
+        }
+        return currentWord;
     }
 }
