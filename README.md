@@ -10,6 +10,7 @@ Leetcode problem solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/salma10/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/salma10/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/salma10/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/salma10/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/salma10/Leetcode-solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/salma10/Leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/salma10/Leetcode-solutions/tree/master/0169-majority-element) |
@@ -131,6 +132,7 @@ Leetcode problem solutions
 | ------- |
 | [0012-integer-to-roman](https://github.com/salma10/Leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/salma10/Leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/salma10/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/salma10/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/salma10/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/salma10/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
@@ -369,6 +371,7 @@ Leetcode problem solutions
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/salma10/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/salma10/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/salma10/Leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/salma10/Leetcode-solutions/tree/master/0547-number-of-provinces) |
