@@ -9,6 +9,7 @@ Leetcode problem solutions
 | [0011-container-with-most-water](https://github.com/salma10/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/salma10/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/salma10/Leetcode-solutions/tree/master/0027-remove-element) |
+| [0056-merge-intervals](https://github.com/salma10/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/salma10/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/salma10/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/salma10/Leetcode-solutions/tree/master/0136-single-number) |
@@ -230,6 +231,7 @@ Leetcode problem solutions
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/salma10/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/salma10/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/salma10/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/salma10/Leetcode-solutions/tree/master/0242-valid-anagram) |
