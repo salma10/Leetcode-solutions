@@ -6,6 +6,7 @@ Leetcode problem solutions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/salma10/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/salma10/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/salma10/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/salma10/Leetcode-solutions/tree/master/0027-remove-element) |
@@ -134,6 +135,7 @@ Leetcode problem solutions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/salma10/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/salma10/Leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/salma10/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/salma10/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
