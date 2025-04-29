@@ -87,6 +87,7 @@ Leetcode problem solutions
 | [0205-isomorphic-strings](https://github.com/salma10/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/salma10/Leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/salma10/Leetcode-solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/salma10/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/salma10/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/salma10/Leetcode-solutions/tree/master/0394-decode-string) |
@@ -148,6 +149,7 @@ Leetcode problem solutions
 | [0205-isomorphic-strings](https://github.com/salma10/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/salma10/Leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/salma10/Leetcode-solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/salma10/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [1039-find-the-town-judge](https://github.com/salma10/Leetcode-solutions/tree/master/1039-find-the-town-judge) |
 | [1319-unique-number-of-occurrences](https://github.com/salma10/Leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
