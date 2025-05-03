@@ -106,6 +106,7 @@ Leetcode problem solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/salma10/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/salma10/Leetcode-solutions/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/salma10/Leetcode-solutions/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/salma10/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/salma10/Leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -123,6 +124,7 @@ Leetcode problem solutions
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/salma10/Leetcode-solutions/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0937-online-stock-span](https://github.com/salma10/Leetcode-solutions/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/salma10/Leetcode-solutions/tree/master/0969-number-of-recent-calls) |
