@@ -29,6 +29,7 @@ Leetcode problem solutions
 | [0228-summary-ranges](https://github.com/salma10/Leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/salma10/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/salma10/Leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0289-game-of-life](https://github.com/salma10/Leetcode-solutions/tree/master/0289-game-of-life) |
 | [0334-increasing-triplet-subsequence](https://github.com/salma10/Leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0399-evaluate-division](https://github.com/salma10/Leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/salma10/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
@@ -122,6 +123,7 @@ Leetcode problem solutions
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/salma10/Leetcode-solutions/tree/master/0289-game-of-life) |
 | [0495-teemo-attacking](https://github.com/salma10/Leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0735-asteroid-collision](https://github.com/salma10/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/salma10/Leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
@@ -296,6 +298,7 @@ Leetcode problem solutions
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/salma10/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/salma10/Leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0289-game-of-life](https://github.com/salma10/Leetcode-solutions/tree/master/0289-game-of-life) |
 | [0542-01-matrix](https://github.com/salma10/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/salma10/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/salma10/Leetcode-solutions/tree/master/1036-rotting-oranges) |
