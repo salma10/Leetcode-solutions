@@ -134,6 +134,7 @@ Leetcode problem solutions
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/salma10/Leetcode-solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/salma10/Leetcode-solutions/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0937-online-stock-span](https://github.com/salma10/Leetcode-solutions/tree/master/0937-online-stock-span) |
@@ -160,6 +161,7 @@ Leetcode problem solutions
 | [0073-set-matrix-zeroes](https://github.com/salma10/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/salma10/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/salma10/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/salma10/Leetcode-solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/salma10/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/salma10/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/salma10/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
@@ -283,6 +285,7 @@ Leetcode problem solutions
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/salma10/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/salma10/Leetcode-solutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/salma10/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/salma10/Leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/salma10/Leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -435,4 +438,8 @@ Leetcode problem solutions
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/salma10/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/salma10/Leetcode-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
