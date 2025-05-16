@@ -294,6 +294,7 @@ Leetcode problem solutions
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/salma10/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/salma10/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/salma10/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/salma10/Leetcode-solutions/tree/master/0146-lru-cache) |
@@ -304,6 +305,7 @@ Leetcode problem solutions
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/salma10/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/salma10/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/salma10/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/salma10/Leetcode-solutions/tree/master/0394-decode-string) |
@@ -400,6 +402,7 @@ Leetcode problem solutions
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/salma10/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/salma10/Leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/salma10/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/salma10/Leetcode-solutions/tree/master/0189-rotate-array) |
