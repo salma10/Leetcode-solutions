@@ -66,6 +66,7 @@ Leetcode problem solutions
 | [0027-remove-element](https://github.com/salma10/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/salma10/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/salma10/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0086-partition-list](https://github.com/salma10/Leetcode-solutions/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/salma10/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/salma10/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/salma10/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -296,6 +297,7 @@ Leetcode problem solutions
 | ------- |
 | [0002-add-two-numbers](https://github.com/salma10/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/salma10/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0086-partition-list](https://github.com/salma10/Leetcode-solutions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/salma10/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/salma10/Leetcode-solutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/salma10/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
