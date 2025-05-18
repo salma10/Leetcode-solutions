@@ -201,6 +201,7 @@ Leetcode problem solutions
 | [0104-maximum-depth-of-binary-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/salma10/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/salma10/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/salma10/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/salma10/Leetcode-solutions/tree/master/0437-path-sum-iii) |
@@ -217,6 +218,7 @@ Leetcode problem solutions
 | ------- |
 | [0162-find-peak-element](https://github.com/salma10/Leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/salma10/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/salma10/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0374-guess-number-higher-or-lower](https://github.com/salma10/Leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/salma10/Leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
@@ -231,6 +233,7 @@ Leetcode problem solutions
 | [0104-maximum-depth-of-binary-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/salma10/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/salma10/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/salma10/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/salma10/Leetcode-solutions/tree/master/0437-path-sum-iii) |
@@ -416,6 +419,7 @@ Leetcode problem solutions
 |  |
 | ------- |
 | [0136-single-number](https://github.com/salma10/Leetcode-solutions/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/salma10/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/salma10/Leetcode-solutions/tree/master/0338-counting-bits) |
 ## Memoization
 |  |
