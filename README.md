@@ -209,6 +209,7 @@ Leetcode problem solutions
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/salma10/Leetcode-solutions/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/salma10/Leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/salma10/Leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/salma10/Leetcode-solutions/tree/master/0904-leaf-similar-trees) |
@@ -224,6 +225,7 @@ Leetcode problem solutions
 | [0222-count-complete-tree-nodes](https://github.com/salma10/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0374-guess-number-higher-or-lower](https://github.com/salma10/Leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/salma10/Leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/salma10/Leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [1046-max-consecutive-ones-iii](https://github.com/salma10/Leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1397-search-suggestions-system](https://github.com/salma10/Leetcode-solutions/tree/master/1397-search-suggestions-system) |
@@ -242,6 +244,7 @@ Leetcode problem solutions
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/salma10/Leetcode-solutions/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/salma10/Leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/salma10/Leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/salma10/Leetcode-solutions/tree/master/0904-leaf-similar-trees) |
@@ -369,6 +372,7 @@ Leetcode problem solutions
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0399-evaluate-division](https://github.com/salma10/Leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/salma10/Leetcode-solutions/tree/master/0437-path-sum-iii) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/salma10/Leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/salma10/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/salma10/Leetcode-solutions/tree/master/0695-max-area-of-island) |
@@ -393,6 +397,7 @@ Leetcode problem solutions
 | [0207-course-schedule](https://github.com/salma10/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0399-evaluate-division](https://github.com/salma10/Leetcode-solutions/tree/master/0399-evaluate-division) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/salma10/Leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/salma10/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/salma10/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
