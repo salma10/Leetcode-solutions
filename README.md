@@ -21,6 +21,7 @@ Leetcode problem solutions
 | [0128-longest-consecutive-sequence](https://github.com/salma10/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/salma10/Leetcode-solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/salma10/Leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/salma10/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/salma10/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/salma10/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/salma10/Leetcode-solutions/tree/master/0198-house-robber) |
@@ -72,6 +73,7 @@ Leetcode problem solutions
 | [0125-valid-palindrome](https://github.com/salma10/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/salma10/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/salma10/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/salma10/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/salma10/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/salma10/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/salma10/Leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -225,6 +227,7 @@ Leetcode problem solutions
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/salma10/Leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/salma10/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/salma10/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/salma10/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/salma10/Leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
