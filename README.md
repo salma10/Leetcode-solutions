@@ -97,6 +97,7 @@ Leetcode problem solutions
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/salma10/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/salma10/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/salma10/Leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/salma10/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/salma10/Leetcode-solutions/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/salma10/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/salma10/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -131,6 +132,7 @@ Leetcode problem solutions
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/salma10/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/salma10/Leetcode-solutions/tree/master/0289-game-of-life) |
 | [0495-teemo-attacking](https://github.com/salma10/Leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0735-asteroid-collision](https://github.com/salma10/Leetcode-solutions/tree/master/0735-asteroid-collision) |
@@ -436,6 +438,7 @@ Leetcode problem solutions
 | [0009-palindrome-number](https://github.com/salma10/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/salma10/Leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/salma10/Leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/salma10/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/salma10/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/salma10/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/salma10/Leetcode-solutions/tree/master/0202-happy-number) |
@@ -445,6 +448,7 @@ Leetcode problem solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/salma10/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/salma10/Leetcode-solutions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/salma10/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/salma10/Leetcode-solutions/tree/master/0338-counting-bits) |
