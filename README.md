@@ -226,6 +226,7 @@ Leetcode problem solutions
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/salma10/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/salma10/Leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/salma10/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -435,6 +436,7 @@ Leetcode problem solutions
 | [0009-palindrome-number](https://github.com/salma10/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/salma10/Leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/salma10/Leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/salma10/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/salma10/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/salma10/Leetcode-solutions/tree/master/0202-happy-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/salma10/Leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
