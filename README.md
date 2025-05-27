@@ -10,6 +10,7 @@ Leetcode problem solutions
 | [0011-container-with-most-water](https://github.com/salma10/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/salma10/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/salma10/Leetcode-solutions/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/salma10/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/salma10/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/salma10/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/salma10/Leetcode-solutions/tree/master/0056-merge-intervals) |
@@ -189,6 +190,7 @@ Leetcode problem solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/salma10/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/salma10/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/salma10/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/salma10/Leetcode-solutions/tree/master/0198-house-robber) |
@@ -292,6 +294,7 @@ Leetcode problem solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/salma10/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/salma10/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/salma10/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/salma10/Leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/salma10/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
