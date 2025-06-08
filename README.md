@@ -13,6 +13,7 @@ Leetcode problem solutions
 | [0027-remove-element](https://github.com/salma10/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/salma10/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/salma10/Leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/salma10/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/salma10/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/salma10/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/salma10/Leetcode-solutions/tree/master/0057-insert-interval) |
@@ -138,6 +139,7 @@ Leetcode problem solutions
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/salma10/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/salma10/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/salma10/Leetcode-solutions/tree/master/0289-game-of-life) |
 | [0495-teemo-attacking](https://github.com/salma10/Leetcode-solutions/tree/master/0495-teemo-attacking) |
@@ -372,6 +374,7 @@ Leetcode problem solutions
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/salma10/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/salma10/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/salma10/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/salma10/Leetcode-solutions/tree/master/0289-game-of-life) |
