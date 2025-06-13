@@ -12,6 +12,7 @@ Leetcode problem solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/salma10/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/salma10/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/salma10/Leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/salma10/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/salma10/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/salma10/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/salma10/Leetcode-solutions/tree/master/0055-jump-game) |
@@ -384,6 +385,7 @@ Leetcode problem solutions
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/salma10/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/salma10/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/salma10/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/salma10/Leetcode-solutions/tree/master/0200-number-of-islands) |
@@ -485,6 +487,7 @@ Leetcode problem solutions
 | [0009-palindrome-number](https://github.com/salma10/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/salma10/Leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/salma10/Leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/salma10/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/salma10/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/salma10/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/salma10/Leetcode-solutions/tree/master/0189-rotate-array) |
