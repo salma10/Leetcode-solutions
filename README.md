@@ -42,6 +42,7 @@ Leetcode problem solutions
 | [0283-move-zeroes](https://github.com/salma10/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/salma10/Leetcode-solutions/tree/master/0289-game-of-life) |
 | [0334-increasing-triplet-subsequence](https://github.com/salma10/Leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0380-insert-delete-getrandom-o1](https://github.com/salma10/Leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/salma10/Leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/salma10/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/salma10/Leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -159,6 +160,7 @@ Leetcode problem solutions
 | [0155-min-stack](https://github.com/salma10/Leetcode-solutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/salma10/Leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/salma10/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0380-insert-delete-getrandom-o1](https://github.com/salma10/Leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0937-online-stock-span](https://github.com/salma10/Leetcode-solutions/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/salma10/Leetcode-solutions/tree/master/0969-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/salma10/Leetcode-solutions/tree/master/2413-smallest-number-in-infinite-set) |
@@ -192,6 +194,7 @@ Leetcode problem solutions
 | [0219-contains-duplicate-ii](https://github.com/salma10/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/salma10/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/salma10/Leetcode-solutions/tree/master/0290-word-pattern) |
+| [0380-insert-delete-getrandom-o1](https://github.com/salma10/Leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/salma10/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [1039-find-the-town-judge](https://github.com/salma10/Leetcode-solutions/tree/master/1039-find-the-town-judge) |
 | [1319-unique-number-of-occurrences](https://github.com/salma10/Leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
@@ -492,6 +495,7 @@ Leetcode problem solutions
 | [0069-sqrtx](https://github.com/salma10/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/salma10/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/salma10/Leetcode-solutions/tree/master/0202-happy-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/salma10/Leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/salma10/Leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/salma10/Leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1585-the-kth-factor-of-n](https://github.com/salma10/Leetcode-solutions/tree/master/1585-the-kth-factor-of-n) |
@@ -558,4 +562,8 @@ Leetcode problem solutions
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/salma10/Leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/salma10/Leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
